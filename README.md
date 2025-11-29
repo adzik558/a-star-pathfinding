@@ -19,7 +19,7 @@ Pełny opis implementacji i badań znajduje się w pliku PDF dołączonym w repo
 
 ## Zawartość repozytorium
 
-- ****mapa_rzeszowa.rar / planner_z_heurystyka.rar / algorytmy_na_siatce.rar – implementacja algorytmu  
+- **mapa_rzeszowa.rar / planner_z_heurystyka.rar / algorytmy_na_siatce.rar – implementacja algorytmu  
 - **praca_mgr_adrian_deren.pdf** – praca magisterska (pełna dokumentacja projektu)  
 ---
 
