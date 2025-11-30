@@ -85,11 +85,11 @@ W projekcie zaimplementowano:
 
 2) **Siatka 2D o wymairach 50x50** </br>
 Kolor Fioletowy przedstawia wyznaczoną ścieżke dla danego algorytmu: </br>
-- BFS </br>
+- **BFS** </br>
 
 <img width="504" height="527" alt="image" src="https://github.com/user-attachments/assets/2882c95f-6e7b-4325-b8bb-82d78f955af5" /> </br>
 
-- DFS </br>
+- **DFS** </br>
 
 <img width="494" height="520" alt="image" src="https://github.com/user-attachments/assets/5d91b2ac-9141-4fe8-ab25-c86d64cb9b22" /> </br>
 
@@ -97,7 +97,7 @@ Kolor Fioletowy przedstawia wyznaczoną ścieżke dla danego algorytmu: </br>
 
 <img width="519" height="544" alt="image" src="https://github.com/user-attachments/assets/23908581-cee3-4715-acbb-2629c56222dc" /> </br>
 
-- Algorytm A* </br>
+- **Algorytm A*** </br>
 
 a) **Heurystyka Manhattan** </br>
 
