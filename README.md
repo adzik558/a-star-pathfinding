@@ -27,23 +27,34 @@ a-star-pathfinding/
 ├── docs/
 │   └── praca_mgr_adrian_deren.pdf        
 │
-├── src/
-│   ├── graphs/                           
-│   │   ├── astar_graph.cpp
-│   │   └── README.md                     
-│   │
-│   ├── grid2d/                           
-│   │   ├── astar_grid.py (lub .ipynb)
-│   │   └── README.md                     
-│   │
-│   └── interactive_map/                  
-│       ├── app/                          
-│       ├── demo_map_small.geojson        
-│       └── README.md                     
-│
-└── data/                                 
-    ├── sample_graph.json
-    └── sample_grid.txt
+└── src/
+    ├── graphs/                           
+    │   ├── Algorytmy_na_grafie_wazonym.py
+    │   └── README.md                     
+    │
+    ├── grid2d/                           
+    │   ├── Algorytmy_na_siatce_2D.py
+    │   └── README.md                     
+    │
+    └── interactive_map/                  
+        ├── _pycache_
+        │   ├──map_generator.cpython-311
+        │   ├──map_generator.cpython-313
+        │   ├──routing.cpython-311
+        │   └──routing.cpython-313                   
+        ├── cache
+        │   ├──288d7ab5eb5774e0d0708b6e8ee8b15d28b258f8
+        │   ├──7613234465b974d16f12f9819759922b5d516261
+        │   └──c32e360e78a1f2274c537dba881e4befa1b47824    
+        ├── data
+        │   └──rzeszow.graphml                            
+        ├── app_icon.svg
+        ├── graph_loader.py
+        ├── requirements.txt
+        ├── routing.py  
+        ├── main.py                         
+        ├── map_generator.py                   
+        └── README.md                     
 
 
 ```
