@@ -153,9 +153,8 @@ W pracy przeprowadzono analizę, w której porównano:
 
 
 Najważniejsze obserwacje:
-- heurystyka Euklidesowa była najefektywniejsza na grafach przestrzennych,  
-- Manhattan sprawdzał się najlepiej na siatkach regularnych,  
-- heurystyka zerowa (Dijkstra) była najwolniejsza, ale zawsze optymalna.
+Przeprowadzone testy wykazały, że algorytm heurystyczny A* z funkcją euklidesową, charakteryzuje się najlepszym bilansem między szybkością a jakością wyników. Algorytm Dijkstry uzyskiwał równie dobre rezultaty, lecz przy większym nakładzie operacyjnym. Z kolei metody BFS 
+i DFS, choć prostsze i szybsze w uruchomieniu, w wielu przypadkach prowadziły do mniej korzystnych tras lub zużywały znacznie więcej zasobów
 
 Szczegółowe wyniki znajdują się w dokumencie PDF.
 
