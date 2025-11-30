@@ -149,13 +149,16 @@ W pracy przeprowadzono analizę, w której porównano:
 **Politechnika - Uniwersytet:** </br>
 
 <img width="549" height="111" alt="image" src="https://github.com/user-attachments/assets/1a8cbadb-b0e7-43cc-9ac4-05179136f37a" /> </br>
+---
 
 
+## Najważniejsze obserwacje: </br>
+W środowisku grafów ważonych najlepsze rezultaty dawały metody uwzględniające wagi – zwłaszcza Dijkstra oraz A* z heurystyką euklidesową lub manhattan. Oba podejścia zapewniały dobre wyniki przy stosunkowo niskim koszcie obliczeniowym. BFS przeszukiwał szerzej i zużywał więcej pamięci, mimo że również znajdował poprawną ścieżkę. DFS natomiast często zbaczał z optymalnej trasy i generował wynik o wyższym koszcie.
+Na siatkach 2D dominowały te same rozwiązania. Algorytm A* ponownie wypadał najlepiej, zarówno pod względem szybkości działania, jak i liczby odwiedzanych pól. BFS oraz Dijkstra dostarczały poprawnych wyników, lecz były mniej efektywne pod względem zasobów. DFS, mimo szybkości działania w niektórych przypadkach, nie gwarantował jakościowych tras i wymagał znacznie więcej pamięci operacyjnej. W tym środowisku można było również zauważyć wpływ wyboru heurystyki na efektywność A* (heurystyka manhattan działa lepiej w układach bardziej regularnych).
+W środowisku najbardziej zbliżonym do rzeczywistości czyli na mapie Rzeszowa, algorytmy trasowania zachowywały się nieco inaczej. Dijkstra i A* prowadziły trasy głównymi drogami, tworząc sensowne i intuicyjne przebiegi co potwierdzają wizualizacje. BFS, mimo że działał szybko, częściej wybierał ścieżki boczne, a to w efekcie skutkowało większą liczbą odwiedzonych węzłów oraz wydłużeniem trasy. Heurystyka manhattan, ze względu na brak regularnej struktury ulic, nie przynosiła tu żadnych korzyści. A* z heurystyką euklidesową był w tym przypadku najbardziej uniwersalny 
+i efektywny
 
-Najważniejsze obserwacje:
-Przeprowadzone testy wykazały, że algorytm heurystyczny A* z funkcją euklidesową, charakteryzuje się najlepszym bilansem między szybkością a jakością wyników. Algorytm Dijkstry uzyskiwał równie dobre rezultaty, lecz przy większym nakładzie operacyjnym. Z kolei metody BFS 
-i DFS, choć prostsze i szybsze w uruchomieniu, w wielu przypadkach prowadziły do mniej korzystnych tras lub zużywały znacznie więcej zasobów
 
-Szczegółowe wyniki znajdują się w dokumencie PDF.
+**Szczegółowe wyniki znajdują się w dokumencie PDF.**
 
 ---
