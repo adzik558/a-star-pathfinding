@@ -1,1 +1,10 @@
+## Implementacja w grafie ważonym
 
+Pierwszym środowiskiem testowym był graf ważony, wygenerowany losowo za pomocą modelu
+Erdos-Renyi. Wygenerowany graf miał zapewnioną spójność (czyli istnienie ścieżki między dowolnymi
+dwoma wierzchołkami), a wagi krawędzi losowano z przedziału od 1 do 5. Celem było przetestowanie i
+porównanie kilku podstawowych algorytmów grafowych: </br>
+• BFS (Breadth-First Search),
+• DFS (Depth-First Search),
+• Dijkstra,
+• A* z trzema heurystykami: indeksową, euklidesową i manhattan.
