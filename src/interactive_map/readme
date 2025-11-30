@@ -1,0 +1,12 @@
+## Mapa rzeszowa ##
+
+W tej części pracy przedstawiono rozszerzenie działania klasycznych algorytmów wyszukiwania
+ścieżek na bardziej realistyczne środowisko – mapę miasta. Wybór padł na Rzeszów, którego dane
+drogowe pozyskano z serwisu OpenStreetMap. Dzięki zastosowaniu formatu graphml, udało się
+stworzyć pełną reprezentację sieci ulicznej jako grafu, który następnie został zaimportowany do aplikacji
+zbudowanej w języku Python. W celu zapewnienia bardziej przyjaznego interfejsu użytkownika,
+rozwiązanie zostało wzbogacone o komponent front-endowy w JavaScript oparty na bibliotece Leaflet.
+Dzięki temu użytkownik może wyznaczać ścieżki bezpośrednio na mapie, wybierając punkty
+startowe i końcowe. Po ich zaznaczeniu uruchamiany jest wybrany algorytm, a wynikowa trasa
+wizualizowana jest w oknie mapy. Obsługiwane metody to m.in. BFS, Dijkstra, A* z heurystyką
+euklidesową oraz A* z heurystyką Manhattan.
