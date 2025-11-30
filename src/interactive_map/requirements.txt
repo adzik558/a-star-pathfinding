@@ -1,0 +1,6 @@
+osmnx
+networkx
+folium
+PyQt5
+PyQtWebEngine
+geopy
