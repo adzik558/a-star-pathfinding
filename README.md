@@ -110,9 +110,13 @@ b) **Heurystyka Euklidesowa** </br>
 <img width="537" height="559" alt="image" src="https://github.com/user-attachments/assets/e02e65a8-bcdb-46ee-a94f-680032df9a42" /> </br>
 
 3) **Rzeczywista mapa Rzeszowa** </br>
+-Trasa Politechnika - Dworzec Kolejowy: </br>
 
 <img width="951" height="498" alt="image" src="https://github.com/user-attachments/assets/3e6f4944-cd36-47a9-89e7-d19f830ff8f2" /> </br>
 
+-Trasa Politechnika - Uniwersytet: </br>
+
+<img width="888" height="466" alt="image" src="https://github.com/user-attachments/assets/62c849ee-2dff-45dd-92a8-1969a9bad098" />
 
 
 ---
