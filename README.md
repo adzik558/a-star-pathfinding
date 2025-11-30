@@ -129,7 +129,26 @@ W pracy przeprowadzono analizę, w której porównano:
 - liczbę rozwiniętych węzłów  
 - czas działania algorytmu  
 - wpływ heurystyki na szybkość i trafność  
-- przypadki, w których heurystyka powoduje degradację wyników  
+- przypadki, w których heurystyka powoduje degradację wyników
+
+1) **Graf Ważony:** </br>
+
+<img width="548" height="143" alt="image" src="https://github.com/user-attachments/assets/0f587d34-7317-4c08-82b9-f78f4b32aecc" /> </br>
+
+2) **Siatka 2D:** </br>
+
+<img width="547" height="127" alt="image" src="https://github.com/user-attachments/assets/44f4f56f-b413-438a-89ce-e302bc5d6bab" /> </br>
+
+3) **Mapa Rzeszowa:** </br>
+**Politechnika - Dworzec Główny:** </br>
+
+<img width="549" height="111" alt="image" src="https://github.com/user-attachments/assets/4920269e-f6d5-4210-a0c4-9da897651237" /> </br>
+
+**Politechnika - Uniwersytet:** </br>
+
+<img width="549" height="111" alt="image" src="https://github.com/user-attachments/assets/1a8cbadb-b0e7-43cc-9ac4-05179136f37a" /> </br>
+
+
 
 Najważniejsze obserwacje:
 - heurystyka Euklidesowa była najefektywniejsza na grafach przestrzennych,  
