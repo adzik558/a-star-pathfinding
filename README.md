@@ -111,7 +111,7 @@ b) **Heurystyka Euklidesowa** </br>
 
 3) **Rzeczywista mapa Rzeszowa** </br>
 
-<img width="537" height="559" alt="image" src="https://github.com/user-attachments/assets/4bf06318-3917-46de-b63c-5f1ffe83aac4" /> </br>
+<img width="951" height="498" alt="image" src="https://github.com/user-attachments/assets/3e6f4944-cd36-47a9-89e7-d19f830ff8f2" /> </br>
 
 
 
