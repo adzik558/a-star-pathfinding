@@ -75,7 +75,7 @@ W projekcie zaimplementowano:
 
 ### Wizualizacja
 
-1)	Dla losowego grafu o parametrach: </br>
+1) **Dla losowego grafu o parametrach:** </br>
 •	50 wierzchołków, </br>
 •	gęstość = 0.07, </br>
 •	ścieżka od 1 do 40, </br>
@@ -83,8 +83,8 @@ W projekcie zaimplementowano:
 
 <img width="1104" height="555" alt="image" src="https://github.com/user-attachments/assets/3af350f4-df3b-44ca-8a97-4ee3ea80a648" /> </br>
 
-2) Siatka 2D o wymairach 50x50 </br>
-Kolor Fioletowy przedstawia wyznaczoną ścieżke dla danego algorytmu:
+2) **Siatka 2D o wymairach 50x50** </br>
+Kolor Fioletowy przedstawia wyznaczoną ścieżke dla danego algorytmu: </br>
 - BFS </br>
 
 <img width="504" height="527" alt="image" src="https://github.com/user-attachments/assets/2882c95f-6e7b-4325-b8bb-82d78f955af5" /> </br>
@@ -93,18 +93,18 @@ Kolor Fioletowy przedstawia wyznaczoną ścieżke dla danego algorytmu:
 
 <img width="494" height="520" alt="image" src="https://github.com/user-attachments/assets/5d91b2ac-9141-4fe8-ab25-c86d64cb9b22" /> </br>
 
-- Dijkstra </br>
+- **Dijkstra** </br>
 
 <img width="519" height="544" alt="image" src="https://github.com/user-attachments/assets/23908581-cee3-4715-acbb-2629c56222dc" /> </br>
 
 - Algorytm A* </br>
 
-a) Heurystyka Manhattan </br>
+a) **Heurystyka Manhattan** </br>
 
 <img width="486" height="505" alt="image" src="https://github.com/user-attachments/assets/85ace8b8-4552-4de0-b798-1d75422fb20d" /> </br>
 
 
-b) Heurystyka Euklidesowa </br>
+b) **Heurystyka Euklidesowa** </br>
 
 <img width="537" height="559" alt="image" src="https://github.com/user-attachments/assets/e02e65a8-bcdb-46ee-a94f-680032df9a42" /> </br>
 
