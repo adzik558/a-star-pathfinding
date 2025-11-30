@@ -17,10 +17,36 @@ Pełny opis implementacji i badań znajduje się w pliku PDF dołączonym w repo
 
 ---
 
-## Zawartość repozytorium
+## Struktura repozytorium
+```plaintext
+a-star-pathfinding/
+├── README.md
+├── LICENSE
+├── requirements.txt
+│
+├── docs/
+│   └── praca_mgr_adrian_deren.pdf        
+│
+├── src/
+│   ├── graphs/                           
+│   │   ├── astar_graph.cpp
+│   │   └── README.md                     
+│   │
+│   ├── grid2d/                           
+│   │   ├── astar_grid.py (lub .ipynb)
+│   │   └── README.md                     
+│   │
+│   └── interactive_map/                  
+│       ├── app/                          
+│       ├── demo_map_small.geojson        
+│       └── README.md                     
+│
+└── data/                                 
+    ├── sample_graph.json
+    └── sample_grid.txt
 
-- **mapa_rzeszowa.rar / planner_z_heurystyka.rar / algorytmy_na_siatce.rar** – implementacje algorytmów 
-- **praca_mgr_adrian_deren.pdf** – praca magisterska (pełna dokumentacja projektu)  
+
+```
 ---
 
 ## Cel projektu
