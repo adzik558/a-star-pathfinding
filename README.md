@@ -27,7 +27,8 @@ Pełny opis implementacji i badań znajduje się w pliku PDF dołączonym w repo
 
 Celem pracy było:
 - zaimplementowanie algorytmu A*,  
-- porównanie różnych heurystyk (Euklidesowa, Manhattan) 
+- porównanie różnych heurystyk (Euklidesowa, Manhattan)
+- porównanie algorytmu A* z innymi algorytmami wyszukiwania najkrótszych ścieżek,
 - analiza ich wpływu na czas działania oraz długość ścieżki,  
 - ocena poprawności heurystyk (admisyjność, monotoniczność),  
 - analiza przypadków optymalnych i suboptymalnych.
