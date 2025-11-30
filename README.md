@@ -83,7 +83,7 @@ W projekcie zaimplementowano:
 
 <img width="1104" height="555" alt="image" src="https://github.com/user-attachments/assets/3af350f4-df3b-44ca-8a97-4ee3ea80a648" /> </br>
 
-2) **Siatka 2D o wymairach 50x50** </br>
+2) **Siatka 2D o wymiarach 50x50** </br>
 Kolor Fioletowy przedstawia wyznaczoną ścieżke dla danego algorytmu: </br>
 - **BFS** </br>
 
