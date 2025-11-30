@@ -199,5 +199,55 @@ i efektywny
 
 
 **Szczegółowe wyniki znajdują się w dokumencie PDF.**
+---
 
+## Jak uruchomić projekt (A* Pathfinding)
+
+### 1. Przygotowanie środowiska
+1. Przejdź do głównego katalogu repozytorium.
+2. Utwórz i aktywuj środowisko wirtualne:
+   ```bash
+   python -m venv .venv
+   # Windows:
+   .venv\Scripts\activate
+   # macOS/Linux:
+   source .venv/bin/activate
+    ```
+3. Zainstaluj wymagane biblioteki:
+   ```
+   pip install -r requirements.txt
+   pip install -r a-star-pathfinding/requirements.txt
+   ```
+4. Otwórz folder:
+   - src/graphs/
+5. Uruchom plik:
+   ```
+   python src/graphs/Algorytmy_na_grafie_wazonym.py
+   ```
+6. Otwórz folder:
+   - src/grid2d/
+7. Uruchom plik
+   ```
+   python src/grid2d/Algorytmy_na_siatce_2D.py
+   ```
+8. Przejdź do folderu:
+   - src/interactive_map/
+9. Wczytaj i przetwórz dane mapy:
+    ```
+   python src/interactive_map/graph_loader.py
+    ```
+10. Wygeneruj mapę / cache:
+    ```
+    python src/interactive_map/map_generator.py
+    ```
+11. Uruchom moduł wyznaczania tras:
+    ```
+    python src/interactive_map/routing.py
+    ```
+12. Uruchom apliakcje 
+    ```
+    python src/interactive_map/main.py
+    ```
+
+   
 ---
