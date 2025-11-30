@@ -199,11 +199,12 @@ i efektywny
 
 
 **Szczegółowe wyniki znajdują się w dokumencie PDF.**
+</br></br>
 ---
 
 ## Jak uruchomić projekt (A* Pathfinding)
 
-### 1. Przygotowanie środowiska
+### Przygotowanie środowiska
 1. Przejdź do głównego katalogu repozytorium.
 2. Utwórz i aktywuj środowisko wirtualne:
    ```bash
@@ -218,18 +219,21 @@ i efektywny
    pip install -r requirements.txt
    pip install -r a-star-pathfinding/requirements.txt
    ```
+### Uruchomienie algorytmów na grafie ważonym
 4. Otwórz folder:
    - src/graphs/
 5. Uruchom plik:
    ```
    python src/graphs/Algorytmy_na_grafie_wazonym.py
    ```
+### Uruchomienie algorytmów na siatce 2D
 6. Otwórz folder:
    - src/grid2d/
 7. Uruchom plik
    ```
    python src/grid2d/Algorytmy_na_siatce_2D.py
    ```
+### Uruchomienie algorytmów na interaktywnej mapie Rzeszowa
 8. Przejdź do folderu:
    - src/interactive_map/
 9. Wczytaj i przetwórz dane mapy:
