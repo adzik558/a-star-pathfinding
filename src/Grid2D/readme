@@ -1,1 +1,23 @@
+## Siatka 2D
 
+W tym środowisku testowym skupiono się na dostosowaniu wcześniej opisanych algorytmów
+wyszukiwania ścieżek do działania w przestrzeni dwuwymiarowej siatki. Implementacja została
+zrealizowana przy użyciu biblioteki Pygame, która umożliwia interaktywną wizualizację działania
+algorytmów w czasie rzeczywistym. Zmiany w logice samych algorytmów były minimalne –
+najistotniejsze modyfikacje objęły sposób reprezentacji wierzchołków oraz sposób ich prezentacji na
+ekranie.
+Każda komórka siatki odpowiada jednemu wierzchołkowi grafu, a połączenia między komórkami
+reprezentują krawędzie o jednakowym koszcie. Wierzchołki mają różne kolory zależnie od aktualnego
+stanu (startowy, końcowy, bariera, przetworzony, itd.), a ich wizualizacja odbywa się w czasie
+rzeczywistym podczas działania algorytmu.
+
+W tym środowisku testowym skupiono się na dostosowaniu wcześniej opisanych algorytmów
+wyszukiwania ścieżek do działania w przestrzeni dwuwymiarowej siatki. Implementacja została
+zrealizowana przy użyciu biblioteki Pygame, która umożliwia interaktywną wizualizację działania
+algorytmów w czasie rzeczywistym. Zmiany w logice samych algorytmów były minimalne –
+najistotniejsze modyfikacje objęły sposób reprezentacji wierzchołków oraz sposób ich prezentacji na
+ekranie.
+Każda komórka siatki odpowiada jednemu wierzchołkowi grafu, a połączenia między komórkami
+reprezentują krawędzie o jednakowym koszcie. Wierzchołki mają różne kolory zależnie od aktualnego
+stanu (startowy, końcowy, bariera, przetworzony, itd.), a ich wizualizacja odbywa się w czasie
+rzeczywistym podczas działania algorytmu.
