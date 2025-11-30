@@ -74,8 +74,8 @@ W projekcie zaimplementowano:
 - porównanie działania A* z Dijkstrą oraz BFS, DFS
 
 ### Wizualizacja
-</br>
-1)	Dla losowego grafu o parametrach: 
+
+1)	Dla losowego grafu o parametrach:
 •	50 wierzchołków, 
 •	gęstość = 0.07, 
 •	ścieżka od 1 do 40
