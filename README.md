@@ -109,7 +109,8 @@ b) **Heurystyka Euklidesowa** </br>
 
 <img width="537" height="559" alt="image" src="https://github.com/user-attachments/assets/e02e65a8-bcdb-46ee-a94f-680032df9a42" /> </br>
 
-3) **Rzeczywista mapa Rzeszowa** </br>
+3) **Rzeczywista mapa Rzeszowa:** </br>
+
 -Trasa Politechnika - Dworzec Kolejowy: </br>
 
 <img width="951" height="498" alt="image" src="https://github.com/user-attachments/assets/3e6f4944-cd36-47a9-89e7-d19f830ff8f2" /> </br>
@@ -140,6 +141,7 @@ W pracy przeprowadzono analizę, w której porównano:
 <img width="547" height="127" alt="image" src="https://github.com/user-attachments/assets/44f4f56f-b413-438a-89ce-e302bc5d6bab" /> </br>
 
 3) **Mapa Rzeszowa:** </br>
+
 **Politechnika - Dworzec Główny:** </br>
 
 <img width="549" height="111" alt="image" src="https://github.com/user-attachments/assets/4920269e-f6d5-4210-a0c4-9da897651237" /> </br>
