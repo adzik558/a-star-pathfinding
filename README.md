@@ -1,5 +1,5 @@
-# Implementacja i analiza algorytmu A* (A-Star) w wyszukiwaniu najkrótszej ścieżki  
-**Praca magisterska – Adrian Dereń (2024)**
+<img width="494" height="520" alt="image" src="https://github.com/user-attachments/assets/ff098cf9-9df6-4d51-afa5-d3a7bc4b5ed7" /># Implementacja i analiza algorytmu A* (A-Star) w wyszukiwaniu najkrótszej ścieżki  
+**Praca magisterska – Adrian Dereń (2025)**
 
 Projekt przedstawia implementację algorytmu **A\*** oraz analizę jego działania w różnych
 scenariuszach wyszukiwania ścieżek w grafach.  
@@ -74,10 +74,39 @@ W projekcie zaimplementowano:
 - porównanie działania A* z Dijkstrą oraz BFS, DFS
 
 ### Wizualizacja
-- prezentacja grafu  
-- rysowanie znalezionej ścieżki  
-- oznaczanie rozwiniętych węzłów  
-- porównanie ścieżek między heurystykami  
+</br>
+1)	Dla losowego grafu o parametrach: 
+•	50 wierzchołków, 
+•	gęstość = 0.07, 
+•	ścieżka od 1 do 40
+•	wagi krawędzi losowe (zakres od 1 do 3)
+</br>
+
+<img width="1104" height="555" alt="image" src="https://github.com/user-attachments/assets/3af350f4-df3b-44ca-8a97-4ee3ea80a648" /> </br>
+
+2) Siatka 2D o wymairach 50x50
+Kolor Fioletowy przedstawia wyznaczoną ścieżke dla danego algorytmu:
+- BFS </br>
+<img width="504" height="527" alt="image" src="https://github.com/user-attachments/assets/2882c95f-6e7b-4325-b8bb-82d78f955af5" /> </br>
+
+- DFS </br>
+<img width="494" height="520" alt="image" src="https://github.com/user-attachments/assets/5d91b2ac-9141-4fe8-ab25-c86d64cb9b22" /> </br>
+
+- Dijkstra </br>
+<img width="519" height="544" alt="image" src="https://github.com/user-attachments/assets/23908581-cee3-4715-acbb-2629c56222dc" /> </br>
+
+- Algorytm A* </br>
+
+a) Heurystyka Manhattan </br>
+<img width="486" height="505" alt="image" src="https://github.com/user-attachments/assets/85ace8b8-4552-4de0-b798-1d75422fb20d" /> </br>
+
+
+b) Heurystyka Euklidesowa </br>
+<img width="537" height="559" alt="image" src="https://github.com/user-attachments/assets/e02e65a8-bcdb-46ee-a94f-680032df9a42" /> </br>
+
+
+
+
 
 ---
 
