@@ -1,4 +1,4 @@
-<img width="494" height="520" alt="image" src="https://github.com/user-attachments/assets/ff098cf9-9df6-4d51-afa5-d3a7bc4b5ed7" /># Implementacja i analiza algorytmu A* (A-Star) w wyszukiwaniu najkrótszej ścieżki  
+# Implementacja i analiza algorytmu A* (A-Star) w wyszukiwaniu najkrótszej ścieżki  
 **Praca magisterska – Adrian Dereń (2025)**
 
 Projekt przedstawia implementację algorytmu **A\*** oraz analizę jego działania w różnych
